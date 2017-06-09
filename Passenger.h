@@ -1,7 +1,6 @@
 // TODO: add header file guard here 
 #ifndef SICT_PASSENGER_H
 #define SICT_PASSENGER_H
-#include <iostream>
 
 // TODO: declare your namespace here
 namespace sict {
